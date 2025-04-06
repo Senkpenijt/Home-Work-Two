@@ -44,12 +44,20 @@ font-size: 150%;
 }
 
 .images {
-    margin-bottom: 150px;
-    width: 100%; /* Make the image responsive */
+    display: grid;
+    grid-template-columns: 40% 40% 40%; /* Two columns */
+    grid-gap:15%;
+    margin-bottom: 100px;
+    width: 70%; /* Make the image responsive */
     height: auto; /* Maintain aspect ratio */
-    padding: 10px;
+    padding: 50px;
+    box-sizing: border-box; /* Include padding in width calculation */
 }
 
+.images img {
+    width: 100%; /* Make the image responsive */
+}
+    
 #firsth1 {
     margin-bottom: -30px;
     padding:10px;
