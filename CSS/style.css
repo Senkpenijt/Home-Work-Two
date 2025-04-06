@@ -37,7 +37,7 @@ figure{
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    margin-top:20px; /* Add space from the top */
+    margin:20px; /* Add space from the top */
     opacity: ;
     border-radius: 2px;
 }
