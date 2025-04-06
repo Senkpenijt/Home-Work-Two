@@ -66,7 +66,7 @@ footer {
     justify-content: center; /* Center the footer content */
     color: white;
     text-align: center;
-    padding: 10px, 10px;
+    padding: 10px;
     bottom: 0%; /* Align to the bottom */
     width: 100%; /* Full width of the footer */
 }
