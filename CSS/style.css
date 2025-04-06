@@ -20,14 +20,13 @@
     text-decoration: none;
 }
 
-
 figure{
     background-image: url(../Images/Ann-arbor-flower.jpg);
     height: 200px;
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    margin:5px; /* Add space from the top */
+    margin:1px; /* Add space from the top */
     opacity: ;
     border-radius: 2px;
 }
