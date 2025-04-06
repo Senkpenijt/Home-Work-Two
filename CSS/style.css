@@ -1,9 +1,9 @@
 .Skip-Main {
   position: absolute;
-  top: -40px;
+  /*top: -40px;*/
   left: 0;
-  color: #fff;
-  padding: 8px;
+  /*color: #fff; */
+  /*padding: 8px;*/
  /* z-index: 100; */
   text-decoration: none;
   transition: top 0.3s ease-in-out;
