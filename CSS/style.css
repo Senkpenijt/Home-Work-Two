@@ -1,7 +1,10 @@
+header {
+  background-color: #bf7878;
+}
 .nav1 {
     display: flex;
     align-items: center;
-    Justify-content:space-between;
+    justify-content:space-between;
     background-color:#bf7878;
     padding: 20px;
     text-decoration: none;
@@ -16,7 +19,7 @@
 
 .nav1 a.active{
     color:#ffff;
-    fonte-weight: bold;
+    font-weight: bold;
     text-decoration: none;
 }
 
@@ -27,13 +30,13 @@ figure{
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     margin:1px; /* Add space from the top */
-    opacity: ;
+    opacity:0.9;
     border-radius: 2px;
 }
 
 .images {
     display: grid;
-    grid-template-columns: 40% 40% 40%; /* Two columns */
+    grid-template-columns: 40% 40%; /* Two columns */
     grid-gap:15%;
     margin-bottom: 100px;
     width: 70%; /* Make the image responsive */
