@@ -75,6 +75,14 @@ main {
 margin-bottom: 150px;
 }
 
+.skip-Main {
+    left: 0;
+    color: #6407ab;
+    /*padding: 8px 16px;*/
+    z-index: 100;
+    text-decoration: underline;
+}
+
 footer {
     background-color: #333;
     display: flex; /* Use flexbox for layout */
