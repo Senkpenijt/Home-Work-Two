@@ -27,6 +27,12 @@ header {
     text-decoration: none;
 }
 
+nav img {
+  width: 10%;
+  position: relative;
+  top: 20px;
+}
+
 img {
     margin-top: 10px;
     padding: 10px;
