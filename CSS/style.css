@@ -56,6 +56,15 @@ font-size: 150%;
     margin-bottom: -30px;
     padding:10px;
 }
+
+.firsth1 {
+     color: #000000;
+    padding: 20px;
+    text-align: center;
+    font-size: 200%;
+    margin-bottom:0;
+}
+
 main {
  padding: 10PX;
  margin: 10px;
