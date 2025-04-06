@@ -9,9 +9,9 @@
   transition: top 0.3s ease-in-out;
 }
 
-/*.Skip-Main:focus {
+.Skip-Main:focus {
   top: 0;
-} */
+} 
 
 /*header {
   background-color: #bf7878;
