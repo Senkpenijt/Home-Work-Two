@@ -37,7 +37,7 @@ figure{
 
 .images {
     display: grid;
-    grid-template-columns: 40% 40%; /* Two columns */
+    grid-template-columns: 40% 40% 40%; /* Two columns */
     grid-gap:15%;
     margin-bottom: 100px;
     width: 70%; /* Make the image responsive */
