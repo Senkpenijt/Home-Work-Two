@@ -1,4 +1,4 @@
-.skip-link {
+.Skip-Main {
   position: absolute;
   top: -40px;
   left: 0;
@@ -10,7 +10,7 @@
   transition: top 0.3s ease-in-out;
 }
 
-.skip-link:focus {
+.Skip-Main:focus {
   top: 0;
 }
 
