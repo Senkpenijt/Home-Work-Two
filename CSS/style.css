@@ -21,7 +21,6 @@ header {
     display: flex;  /* Use flexbox for layout */
     gap: 90px;  /* Space between items in the navigation bar */
     justify-content: center;  /* Align items to the left */
-    margin-bottom:20px;
 }
 .nav1 a{
     text-decoration: none;
@@ -38,7 +37,7 @@ figure{
     background-size: cover; /* Cover the entire area */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
-    margin: 0; /* Remove default margin */
+    margin-bottom:20px; /* Add space from the top */
     opacity: ;
     border-radius: 2px;
 }
