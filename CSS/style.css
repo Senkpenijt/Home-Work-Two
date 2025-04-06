@@ -31,18 +31,6 @@ figure{
     border-radius: 2px;
 }
 
-body{
-    background-color:#d2bf85;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 150%;
-
-}
-#third-img {
-    margin-bottom: 150px;
-    width: 100%; /* Make the image responsive */
-    height: auto; /* Maintain aspect ratio */
-}
-
 .images {
     display: grid;
     grid-template-columns: 40% 40% 40%; /* Two columns */
@@ -56,6 +44,12 @@ font-size: 150%;
 
 .images img {
     width: 100%; /* Make the image responsive */
+}
+body{
+    background-color:#d2bf85;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 150%;
+
 }
     
 #firsth1 {
